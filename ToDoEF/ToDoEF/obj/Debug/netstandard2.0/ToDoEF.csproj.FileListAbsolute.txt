@@ -1,0 +1,13 @@
+C:\Users\Sashka\Desktop\xamarin-forms-entityframework-sample-master\src\ToDoEF\ToDoEF\bin\Debug\netstandard2.0\ToDoEF.deps.json
+C:\Users\Sashka\Desktop\xamarin-forms-entityframework-sample-master\src\ToDoEF\ToDoEF\bin\Debug\netstandard2.0\ToDoEF.dll
+C:\Users\Sashka\Desktop\xamarin-forms-entityframework-sample-master\src\ToDoEF\ToDoEF\bin\Debug\netstandard2.0\ToDoEF.pdb
+C:\Users\Sashka\Desktop\xamarin-forms-entityframework-sample-master\src\ToDoEF\ToDoEF\obj\Debug\netstandard2.0\ToDoEF.csprojAssemblyReference.cache
+C:\Users\Sashka\Desktop\xamarin-forms-entityframework-sample-master\src\ToDoEF\ToDoEF\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Sashka\Desktop\xamarin-forms-entityframework-sample-master\src\ToDoEF\ToDoEF\obj\Debug\netstandard2.0\Views\TodoItemView.xaml.g.cs
+C:\Users\Sashka\Desktop\xamarin-forms-entityframework-sample-master\src\ToDoEF\ToDoEF\obj\Debug\netstandard2.0\Views\TodoListView.xaml.g.cs
+C:\Users\Sashka\Desktop\xamarin-forms-entityframework-sample-master\src\ToDoEF\ToDoEF\obj\Debug\netstandard2.0\ToDoEF.csproj.CoreCompileInputs.cache
+C:\Users\Sashka\Desktop\xamarin-forms-entityframework-sample-master\src\ToDoEF\ToDoEF\obj\Debug\netstandard2.0\ToDoEF.AssemblyInfoInputs.cache
+C:\Users\Sashka\Desktop\xamarin-forms-entityframework-sample-master\src\ToDoEF\ToDoEF\obj\Debug\netstandard2.0\ToDoEF.AssemblyInfo.cs
+C:\Users\Sashka\Desktop\xamarin-forms-entityframework-sample-master\src\ToDoEF\ToDoEF\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Sashka\Desktop\xamarin-forms-entityframework-sample-master\src\ToDoEF\ToDoEF\obj\Debug\netstandard2.0\ToDoEF.dll
+C:\Users\Sashka\Desktop\xamarin-forms-entityframework-sample-master\src\ToDoEF\ToDoEF\obj\Debug\netstandard2.0\ToDoEF.pdb
